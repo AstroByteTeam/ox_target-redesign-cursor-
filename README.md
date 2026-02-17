@@ -2,7 +2,7 @@
 
 > **This is a modified fork of [ox_target](https://github.com/overextended/ox_target) with cursor-based targeting instead of the traditional "eye" icon system.**
 
-If you have any issues or suggestions, feel free to PR, create an issue or join my discord: 
+If you have any issues or suggestions, feel free to PR, create an issue or join my discord: https://discord.gg/GFZRfCNgkw
 
 
 ## 📖 Preview
