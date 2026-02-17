@@ -184,7 +184,7 @@ https://overextended.dev/ox_target
 https://github.com/overextended/ox_target/releases/latest/download/ox_target.zip
 
 
-## Preview
+## 📖 Preview
 
 https://iili.io/q293YQI.jpg
 
